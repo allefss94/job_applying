@@ -8,4 +8,4 @@
 *CSS3
 *Bootstrap 4
 
-<img src="/assets/Screen.jpeg">
+<img src="/assets/Screen.png">
