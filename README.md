@@ -8,4 +8,4 @@
 *CSS3
 *Bootstrap 4
 
-![]('assets/Screen.jpeg')
+![]('/assets/Screen.jpeg')
